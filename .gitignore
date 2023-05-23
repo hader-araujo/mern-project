@@ -1,0 +1,5 @@
+node_modules/*
+.db/*
+./public/uploaded-photo
+server-compiled.js
+package-lock.json
